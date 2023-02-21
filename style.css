@@ -131,7 +131,7 @@ footer h5{
     content: '+';
 }
 
-.text{
+.text-1, .text-2{
     margin: 3vh;
     width: 30vh;
 }
@@ -140,4 +140,14 @@ footer h5{
     background: #eee;
     padding-bottom: 4vh;
     padding-left: 2vh;
+}
+
+.Lorem{
+    padding-left: 2vh;
+    padding-right: 2vh;
+    text-align: justify;
+}
+
+.sitemap{
+    padding-bottom: 8vh;
 }
